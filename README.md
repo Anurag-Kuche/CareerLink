@@ -35,9 +35,8 @@ CareerLink is a full-fledged web application that bridges the gap between job se
 | **State**   | useState, useEffect            |
 | **Deployment** | Vercel                      |
 
-> *(If backend exists: Node.js, Express, MongoDB – mention accordingly)*
 
 ---
 
-## 📁 Folder Structure
+
 
